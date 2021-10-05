@@ -1,3 +1,3 @@
-print("Hello, world!")
+print("Hello, Huanyu!")
 
-print("This is a test script!")
+print("This is so much more than a test script!")
